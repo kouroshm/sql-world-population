@@ -1,7 +1,7 @@
 # sql-world-population
-This is a practice on SQL Manipulation, Queries, Aggregate Functions, and Multiple Tables provided by Codecademy as Project
+This is a practice on SQL Manipulation, Queries, Aggregate Functions, and Multiple Tables provided by Codecademy as Project.
 
-To open the database file and sql file please download [DB Browser](https://sqlitebrowser.org/)
+This project has been written in sqlite and to open the database which the extension is (.sqlite) and sql file please download [DB Browser](https://sqlitebrowser.org/)
 
 This project attempted to answer these questions from the specification of the project:
 
